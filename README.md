@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi there, I'm Utsab!  
+🎓 Data Science Enthusiast | AI Explorer | Healthcare & Climate Data Researcher | GIS Analyst  
 
-<!--
-**utsab-bhattarai-ai/utsab-bhattarai-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate data science student with a strong foundation in Statistics, currently pursuing my Master’s in Nepal. My journey revolves around unlocking insights from data, with a keen interest in Machine Learning, Big Data, Artificial Intelligence, and Geospatial Analysis.  
 
-Here are some ideas to get you started:
+🔍 What I Do:  
+📊 Leading GitHub team projects focused on Data Science & AI  
+🌡️ Conducting Exploratory Data Analysis (EDA) on climate datasets (1900–2023)  
+🏥 Working on healthcare data utilization to improve patient care and resource optimization  
+🗺️ Applying GIS techniques for geospatial data analysis and visualization  
+🐍 Building robust ML pipelines using Python (Pandas, NumPy, Matplotlib, Seaborn)  
+🐳 Exploring scalable solutions with Docker, Hadoop, and cloud tools like Google Colab  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 My Goals:  
+✨ Transform raw data into actionable insights  
+🏥 Leverage AI for smarter healthcare solutions  
+🌍 Integrate geospatial analysis for climate and healthcare insights  
+🌟 Make meaningful contributions to open-source projects in Data Science & AI  
+
+⚡ Let's Collaborate:  
+I'm always open to connecting with like-minded individuals. Let's create impactful solutions together!  
